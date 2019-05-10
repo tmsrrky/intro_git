@@ -1,1 +1,3 @@
 練習ファイル
+git add
+git commit
