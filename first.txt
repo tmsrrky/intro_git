@@ -1,3 +1,4 @@
 練習ファイル
 git add
 編集１
+git statsu
