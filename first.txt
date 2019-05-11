@@ -2,3 +2,4 @@
 git add
 編集１
 git statsu
+git diff
